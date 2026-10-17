@@ -1,0 +1,6 @@
+# Hide Streamlit secrets and API keys
+.streamlit/secrets.toml
+
+# Hide Python cache files
+__pycache__/
+*.pyc
